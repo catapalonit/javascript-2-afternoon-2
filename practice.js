@@ -100,7 +100,7 @@ function evenFinder(nums){
   }
   return numsEven;
 }
-
+//// if you reference this later console.log isn't needed jonathan just had me do it to show what was happening
 
 /////////////////////// EXTRA PRACTICE PROBLEMS BELOW ////////////////////
 ////////// MOVE ONTO NEXT SECTION BEFORE WORKING ON THESE ////////////////
